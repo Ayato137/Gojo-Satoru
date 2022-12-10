@@ -19,19 +19,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['201126554338']
+global.premium = ['201126554338']
+global.ownernomer = '201126554338'
+global.ownername = '𝐴 𝑌 𝐴 𝑇 𝑂 ' 
+global.botname = ' 𝑰𝑵𝑶𝑴𝑨𝑲𝑰 𝐵𝑂𝑇 ꨄ  , '
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
+global.packname '𝐴𝑌𝐴𝑇𝑂 𝑆𝑇𝐼𝐶'
+global.author = '01126554338'
+global.sessionName = '𝑰𝑵𝑶𝑴𝑨𝑲𝑰 ꨄ  , '
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'استنا شويه ي علق...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
